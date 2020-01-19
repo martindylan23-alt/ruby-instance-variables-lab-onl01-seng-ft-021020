@@ -9,5 +9,5 @@
         end 
         
     lassie = Dog 
-    expect ('lassie')
+    name = 'lassie'
   
