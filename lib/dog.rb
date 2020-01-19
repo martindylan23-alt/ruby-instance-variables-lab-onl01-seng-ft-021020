@@ -9,5 +9,5 @@
         end 
         
     lassie = Dog 
-    name = 'lassie'
+    name = "Lassie"
   
