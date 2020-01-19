@@ -9,5 +9,5 @@
         end 
         
     lassie = Dog 
-    expect (lassie "@ this_dogs_name")
+    expect ('lassie')
   
